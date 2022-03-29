@@ -1,0 +1,4 @@
+github.com/sashabaranov/go-gpt3 v0.0.0-20220314221030-260ef874de6c h1:VJLpbeWEoC6VGpIVKQ4ZkAc+KdPEvcKIO8P+vOEvnDQ=
+github.com/sashabaranov/go-gpt3 v0.0.0-20220314221030-260ef874de6c/go.mod h1:BIZdbwdzxZbCrcKGMGH6u2eyGe1xFuX9Anmh3tCP8lQ=
+gopkg.in/ini.v1 v1.66.4 h1:SsAcf+mM7mRZo2nJNGt8mZCjG8ZRaNGMURJw7BsIST4=
+gopkg.in/ini.v1 v1.66.4/go.mod h1:pNLf8WUiyNEtQjuu5G5vTm06TEv9tsIgeAvK8hOrP4k=
